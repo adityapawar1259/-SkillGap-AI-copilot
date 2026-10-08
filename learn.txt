@@ -1,0 +1,3 @@
+pip install flask sqlalchemy pysql openai pyPDF2 python-docx // installation Done 
+
+install openai
